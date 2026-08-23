@@ -1,5 +1,5 @@
 yay(feat. gpt)  
-Useage: &nbsp&nbsp&nbsp&nbsp -> &nbsp&nbsp&nbsp&nbsp _if(condition)["True_condition_value_string_name", "False_condition_value_string_name"]  
+Useage: &nbsp;&nbsp;&nbsp;&nbsp; -> &nbsp;&nbsp;&nbsp;&nbsp; _if(condition)["True_condition_value_string_name", "False_condition_value_string_name"]  
   val_AA = 20  
   val_BB = 10  
   result_value = _if(val_AA > val_BB)['val_AA', 'val_BB']  

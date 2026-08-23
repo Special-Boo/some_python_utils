@@ -1,4 +1,5 @@
 # from ChatGPT
+import inspect, re
 
 def preprocess_list_indexing(expr, local_vars):
     local_vars = dict(local_vars)  # 원본 locals 훼손 방지
